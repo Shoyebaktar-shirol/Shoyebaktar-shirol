@@ -59,14 +59,12 @@
 Feel free to check out my :(https://shoyebaktar-shirol.github.io/Personal-Portfolio/) for more details.
 
 <br>
-<h3 align="center">A passionate frontend developer from India</h3>
 
+
+
+<h2>Github Profile Statistics</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoyebaktar-shirol&label=Profile%20views&color=0e75b6&style=flat" alt="shoyebaktar-shirol" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoyebaktar-shirol&show_icons=true&locale=en" alt="shoyebaktar-shirol" /></p>
 
 
