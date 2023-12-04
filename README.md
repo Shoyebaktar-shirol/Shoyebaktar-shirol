@@ -14,11 +14,11 @@
 <h2>Connect with me on social media:</h2> <br>
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github&style=flat-square)]<br>(https://github.com/your_github_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)]<br>(https://www.linkedin.com/in/your_linkedin_profile)
-[![Snapchat](https://img.shields.io/badge/Snapchat-Add-yellow?logo=snapchat&style=flat-square)]<br>(https://www.snapchat.com/add/your_snapchat_username)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram&style=flat-square)]<br>(https://www.instagram.com/your_instagram_profile)
-[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook&style=flat-square)]<br>(https://www.facebook.com/your_facebook_profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?logo=github&style=flat-square)](https://github.com/your_github_username)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/your_linkedin_profile)<br>
+[![Snapchat](https://img.shields.io/badge/Snapchat-Add-yellow?logo=snapchat&style=flat-square)](https://www.snapchat.com/add/your_snapchat_username)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram&style=flat-square)](https://www.instagram.com/your_instagram_profile)<br>
+[![Facebook](https://img.shields.io/badge/Facebook-Like-blue?logo=facebook&style=flat-square)](https://www.facebook.com/your_facebook_profile)<br>
 
 
 
