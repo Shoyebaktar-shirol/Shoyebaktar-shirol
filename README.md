@@ -55,8 +55,8 @@
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 <br>
-<h2>My Portfolio</h2><br>
-Feel free to check out my :(https://shoyebaktar-shirol.github.io/Personal-Portfolio/) for more details.
+<h2>My Portfolio : Feel free to check out my :(https://shoyebaktar-shirol.github.io/Personal-Portfolio/) for more details.</h2><br>
+
 
 <br>
 
