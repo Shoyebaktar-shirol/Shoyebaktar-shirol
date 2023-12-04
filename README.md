@@ -64,3 +64,20 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoyebaktar-shirol&show_icons=true&locale=en" alt="shoyebaktar-shirol" /></p>
 
+<style>
+ .social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.social-icons img {
+    width: 50px;
+    height: auto;
+}
+
+
+.social-icons a:hover {
+    transform: scale(1.2);
+}
+</style>
