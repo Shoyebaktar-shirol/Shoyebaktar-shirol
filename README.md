@@ -23,12 +23,6 @@
 
 
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/shoyebaktar-shirol-1a9976279)
-- **Snapchat:** [Your Snapchat Profile]()
-- **Instagram:** [Your Instagram Profile](https://www.instagram.com/shoyebaktar_s/)
-- **Facebook:** [Your Facebook Profile]()
-- **GitHub:** [Your GitHub Profile](https://github.com/Shoyebaktar-shirol)
-- <br>
 <br>
 <h2>Hacktoberfest2023:</h2> 
 - **Hactoberfest2023 Badges:(https://www.holopin.io/@shoyebaktar_shirol07#badges)<br>
@@ -64,6 +58,16 @@
 <h2>My Portfolio</h2><br>
 Feel free to check out my :(https://shoyebaktar-shirol.github.io/Personal-Portfolio/) for more details.
 
+<br>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoyebaktar-shirol&label=Profile%20views&color=0e75b6&style=flat" alt="shoyebaktar-shirol" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoyebaktar-shirol&show_icons=true&locale=en" alt="shoyebaktar-shirol" /></p>
 
 
 
