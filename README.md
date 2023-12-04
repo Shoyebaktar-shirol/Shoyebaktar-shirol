@@ -58,7 +58,6 @@
 <h2>My Portfolio : Feel free to check out my :(https://shoyebaktar-shirol.github.io/Personal-Portfolio/) for more details.</h2><br>
 
 
-<br>
 
 
 
