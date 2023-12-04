@@ -31,10 +31,13 @@
 - <br>
 <br>
 <h2>Hacktoberfest2023:</h2> 
-- **Hactoberfest2023 Badges:** [Your Hacktoberfest2023 Profile](https://www.holopin.io/@shoyebaktar_shirol07#badges)
-# Skills
+- **Hactoberfest2023 Badges:(https://www.holopin.io/@shoyebaktar_shirol07#badges)<br>
+<bR>
 
-Here are some of my skills:
+<h2>Skills:</h2> <br>
+
+
+
 
 - **Java**
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -57,9 +60,10 @@ Here are some of my skills:
 - **SQL**
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-Feel free to check out my [portfolio](https://your-portfolio-link.com) for more details.
+<br>
+<h2>My Portfolio</h2><br>
+Feel free to check out my [portfolio](https://shoyebaktar-shirol.github.io/Personal-Portfolio/) for more details.
 
-<!-- Add more skills as needed -->
 
 
 
