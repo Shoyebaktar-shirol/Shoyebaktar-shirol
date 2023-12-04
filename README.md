@@ -30,9 +30,36 @@
 - **GitHub:** [Your GitHub Profile](https://github.com/Shoyebaktar-shirol)
 - <br>
 <br>
-<h2>Hacktoberfest2023:</h2> <br>
+<h2>Hacktoberfest2023:</h2> 
 - **Hactoberfest2023 Badges:** [Your Hacktoberfest2023 Profile](https://www.holopin.io/@shoyebaktar_shirol07#badges)
-<br>
-[![Click Me](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://your-profile-link.com)
+# Skills
+
+Here are some of my skills:
+
+- **Java**
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+- **Python**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **C#**
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+- **HTML5**
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+- **CSS**
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- **JavaScript**
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **SQL**
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
+Feel free to check out my [portfolio](https://your-portfolio-link.com) for more details.
+
+<!-- Add more skills as needed -->
+
 
 
