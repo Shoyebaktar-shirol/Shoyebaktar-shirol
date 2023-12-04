@@ -24,14 +24,11 @@
 
 
 <br>
-<h2>Hacktoberfest2023:</h2> 
-- **Hactoberfest2023 Badges:(https://www.holopin.io/@shoyebaktar_shirol07#badges)<br>
-<bR>
-
-<h2>Skills:</h2> <br>
+<h2>Hacktoberfest2023</h2> : - **Hacktoberfest2023 Badges:(https://www.holopin.io/@shoyebaktar_shirol07#badges)<br> 
 
 
 
+<h2>Skills:</h2> 
 
 - **Java**
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
