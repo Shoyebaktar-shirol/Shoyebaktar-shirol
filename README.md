@@ -24,7 +24,7 @@
 
 
 <br>
-<h2>Hacktoberfest2023</h2> : - **Hacktoberfest2023 Badges:(https://www.holopin.io/@shoyebaktar_shirol07#badges)<br> 
+<h2>Hacktoberfest2023</h2> Hacktoberfest2023 Badges:(https://www.holopin.io/@shoyebaktar_shirol07#badges)<br> 
 
 
 
