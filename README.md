@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shoyebaktar Shirol</h1>
-<h3 align="center"> Passionate in Open Source Contribution and Full Stack Development.</h3>
+<h3 align="center"> Passionate about exploring the intersection of software development and emerging technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoyebaktar-shirol&label=Profile%20views&color=0e75b6&style=flat" alt="shoyebaktar-shirol" /> </p>
 
-- 🌱 I’m currently learning **R Programming**
+- 🌱 I’m currently Persuing **Bca**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shoyebaktar-shirol](https://github.com/Shoyebaktar-shirol)
 
